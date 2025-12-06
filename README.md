@@ -1,6 +1,6 @@
 # Nordic Horoscope
 
-A horoscope website, where the user can find out their zodiac sign and daily horoscope.
+A horoscope website, where the user can find out their zodiac sign and daily horoscope. Made with Flutter and hosted on Firebase.
 
 [https://nordichoroscope.com/](https://nordichoroscope.com/)
 
